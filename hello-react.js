@@ -6,7 +6,7 @@ class HelloWorld extends React.Component
 {
     render()
     {
-        return el( 'h1', null, 'Hey!' );
+        return el( 'h1', {style: {color:'gray', textAlign: 'center'}}, 'Hey!' );
     }
 }
 
