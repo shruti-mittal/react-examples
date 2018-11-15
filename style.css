@@ -1,0 +1,13 @@
+.show {
+    display: block;
+}
+.hide {
+    display: none;
+}
+.tab-heading {
+    background: lightgray;
+    text-align: center;
+}
+.active {
+    background: gray;
+}
